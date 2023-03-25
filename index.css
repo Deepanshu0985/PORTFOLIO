@@ -204,7 +204,7 @@ span{
 }
 .skills-container .skills-box:hover{
     border-color: var(--main-color);
-    transform: scale(1.05);
+    transform: scale(1.10);
 }
 .skills-box i{
     font-size: 7rem;
